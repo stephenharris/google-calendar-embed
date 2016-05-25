@@ -1,10 +1,10 @@
 # Google Calendar Embed #
-**Contributors:** stephenharris
-**Tags:** events, calendar, google, embed
-**Requires at least:** 4.4.0
-**Tested up to:** 4.5.2
-**Stable tag:** 1.0.0
-**License:** GPLv2 or higher
+**Contributors:** stephenharris  
+**Tags:** events, calendar, google, embed  
+**Requires at least:** 4.4.0  
+**Tested up to:** 4.5.2  
+**Stable tag:** 1.0.0  
+**License:** GPLv2 or higher  
 
 Embed Google calendars into your website
 
