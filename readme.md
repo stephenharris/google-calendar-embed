@@ -16,6 +16,8 @@ The plug-in registers a shortcode which you can use to embed Google calendars:
 
 You can also copy and paste the iframe code provided by Google calendar into your WordPress site's editor and it will be automatically converted to a shortcode.
 
+The plug-in also provides a widget in which you can paste the iframe code for your Google calendar.
+
 ### Getting the iframe embed code
 
 1. Log-in to Google Calendar,

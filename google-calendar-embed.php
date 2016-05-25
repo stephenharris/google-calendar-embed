@@ -8,6 +8,10 @@ Author: URI: http://www.stephenharris.info
 License: GPL v2 or higher
 */
 
+require_once( plugin_dir_path( __FILE__ ) . 'class-google-calendar-embed-widget.php' );
+add_action( 'widgets_init', function(){
+    register_widget( 'Google_Calendar_Embed_Widget' );
+});
 
 /**
  * Returns the HTML for the [googlecalendar] shortcode
